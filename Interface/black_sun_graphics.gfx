@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_black_sun_bookmark"
+		texturefile = "gfx/interface/black_sun_1985.dds"
+	}
+}

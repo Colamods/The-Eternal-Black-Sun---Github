@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = GFX_ideology_militarism_group
+		texturefile = gfx/interface/ideologies/militarism_group.dds
+	}
+}

@@ -1,0 +1,28 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_aryan_spirit"
+		texturefile = "gfx/interface/ideas/aryan_spirit_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_euro_hegemon"
+		texturefile = "gfx/interface/ideas/euro_hegemon_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_ss_scandal"
+		texturefile = "gfx/interface/ideas/ss_scandal_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_autarky"
+		texturefile = "gfx/interface/ideas/autarky_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_extension"
+		texturefile = "gfx/interface/ideas/extension_icon.dds"
+	}
+	
+}
