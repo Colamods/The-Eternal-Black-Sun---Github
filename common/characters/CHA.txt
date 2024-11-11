@@ -1,5 +1,5 @@
 characters={
-
+$$$$$$$$$$$$$
 	AFG_mohammed_zahir_shah={
 		name="Mohammed Zahir Shah"
 		portraits={
