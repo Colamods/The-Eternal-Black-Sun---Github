@@ -1,0 +1,135 @@
+ideas = {
+
+	country = {
+		aryan_spirit = {
+			picture = aryan_spirit
+			
+            allowed = {
+			    tag = VRI
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				surrender_limit = 0.1
+				political_power_gain = 0.2
+			}
+		}
+	}
+	
+	country = {
+		euro_hegemon = {
+			picture = euro_hegemon
+			
+            allowed = {
+			    tag = VRI
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.2
+			}
+		}
+	}
+	
+	country = {
+		ss_scandal = {
+			picture = ss_scandal
+			
+            allowed = {
+			    tag = VRI
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.3
+			}
+		}
+	}
+	
+	country = {
+		autarky = {
+			picture = autarky
+			
+            allowed = {
+			    tag = VRI
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.3
+				stability_factor = -0.1
+			}
+		}
+	}
+	
+	country = {
+		extension = {
+			picture = extension
+			
+            allowed = {
+			    tag = VRI
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+            war_support_factor = 0.2
+			political_power_gain = -0.2
+			}
+		}
+	}
+}

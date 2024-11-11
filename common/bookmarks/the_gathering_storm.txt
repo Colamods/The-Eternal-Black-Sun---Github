@@ -1,0 +1,52 @@
+bookmarks = {
+	bookmark = {
+		name = "The Eternal Black Sun"
+		desc = "BLACK_SUN_BOOKMARK_LOC"
+		date = 1985.1.1.12
+		picture = "GFX_black_sun_bookmark"
+		default_country = "VRI"
+	
+		VRI = {
+			history = VRI_BSB_DESC_LOC
+			ideology = fascism
+			ideas = {
+				stiff_upper_lip
+				ENG_the_war_to_end_all_wars
+				ENG_george_vi
+				british_austerity_idea
+				ENG_colonial_elite
+			}
+			focuses = {
+				ENG_war_with_japan
+				bomber_command_focus
+				maud_focus
+			}
+			
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		# minors from DLC ####
+		"CAN"={
+			minor = yes
+			history = "CAN_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
