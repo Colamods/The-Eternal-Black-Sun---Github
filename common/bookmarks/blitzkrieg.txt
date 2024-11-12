@@ -10,11 +10,9 @@ bookmarks = {
 			history = VRI_BSB_DESC_LOC
 			ideology = fascism
 			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				ENG_george_vi
-				british_austerity_idea
-				ENG_colonial_elite
+				aryan_spirit
+				ss_scandal
+				extension
 			}
 			focuses = {
 				ENG_war_with_japan
