@@ -84,8 +84,7 @@ set_convoys = 20
 	set_popularities = {
 		nationalsocialism = 73
 		militarism = 15
-		technocraticbioweaponization = 6
-		technocratichumanism = 1
+		technocraticbioweaponization = 7
 		strasseritenationalsocialism = 5
 	}
 }
