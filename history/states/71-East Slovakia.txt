@@ -17,9 +17,9 @@ state={
 		add_core_of = SLV
 
 		1939.3.14 = {
-			owner = SLO
-			controller = SLO
-			add_core_of = SLO
+			owner = SLV
+			controller = SLV
+			add_core_of = SLV
 		}
 	}
 

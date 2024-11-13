@@ -99,33 +99,6 @@ create_country_leader = {
 	}
 }
 
-create_faction = "Germania-Accord"
-
-puppet = SLV
-
-puppet = OST
-
-puppet = RKU
-
-puppet = PTP
-
-puppet = GTL
-
-puppet = MOS
-
-puppet = KUK
-
-puppet = TUK
-
-puppet = SIB
-
-puppet = FCE
-
-add_to_faction = HGY
-
-add_to_faction = PND
-
-add_to_faction = RMI
 
 1985.1.1 = {
 
