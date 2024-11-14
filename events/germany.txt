@@ -1,0 +1,27 @@
+﻿###########################
+# German Events
+###########################
+
+add_namespace = germany
+
+# Traurtag
+country_event = {
+	id = germany.1
+	title = "Traurtag"
+	desc = germany.1.d
+	picture = GFX_report_event_traurtag
+	
+	is_triggered_only = yes
+	
+	option = { # Breaking point!
+		name = germany.1.a
+		ai_chance = { factor = 90 }
+		add_stability = -50
+	}
+	
+	option = { # Make more concessions
+		name = germany.1.b
+		ai_chance = { factor = 10 }
+
+	}
+}

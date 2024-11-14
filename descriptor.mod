@@ -8,4 +8,4 @@ tags={
 }
 replace_path= "common/bookmarks/the_gathering_storm"
 replace_path = "gfx/loadingscreens"
-supported_version="1.14.10"
+supported_version="1.15.0"
