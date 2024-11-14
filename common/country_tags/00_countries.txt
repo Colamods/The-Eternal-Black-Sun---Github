@@ -292,6 +292,7 @@ WAL = "countries/Wales.txt"
 TGG = "countries/Green.txt"
 VBI = "countries/Britien.txt"
 WEX = "countries/Wessex.txt"
+FLD = "countries/Finland.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"

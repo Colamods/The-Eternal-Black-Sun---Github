@@ -1,5 +1,9 @@
 #reload countrycolors
 
+FLD = {
+	color = rgb { 74 82 103 }
+	color_ui = rgb { 74 82 103 }
+}
 WEX = {
 	color = rgb { 92 72 98 }
 	color_ui = rgb { 92 72 98 }
