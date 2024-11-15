@@ -1,0 +1,26 @@
+﻿###########################
+# Germanreich
+###########################
+
+add_namespace = germanreich
+
+# Trauertag
+country_event = {
+	id = germanreich.1
+	title = "Trauertag"
+	desc = germanreich.1.d
+	picture = GFX_report_event_traurtag
+	
+	is_triggered_only = yes
+	
+	option = { # Breaking point!
+		name = "test"
+		ai_chance = { factor = 90 }
+		add_political_power 50
+	}
+	
+	option = { # Make more concessions
+		name = "test"
+		ai_chance = { factor = 10 }
+	}
+}

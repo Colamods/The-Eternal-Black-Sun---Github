@@ -1,0 +1,38 @@
+state = {
+	id = 975
+	name = "STATE_975"
+	manpower = 298000
+
+	resources = {
+	}
+	
+	state_category = rural
+	
+	history = {
+
+		owner = VRI
+		add_core_of = VRI
+
+		victory_points = {
+			3700 1 
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		
+		1938.3.12 = {
+			owner = VRI
+			controller = VRI
+			add_core_of = VRI
+		}
+
+	}
+
+	provinces = {
+		3700 9661 11630
+	}
+
+	local_supplies = 0.0 
+}
