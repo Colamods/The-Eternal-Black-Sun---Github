@@ -299,6 +299,7 @@ FLD = "countries/Finland.txt"
 SWD = "countries/Sweden.txt"
 NRY = "countries/Norway.txt"
 DNK = "countries/Denmark.txt"
+TRK = "countries/Turkey.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"

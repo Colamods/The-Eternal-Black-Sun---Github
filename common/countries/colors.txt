@@ -1,6 +1,9 @@
 #reload countrycolors
 
-
+TRK = {
+	color = rgb { 73 58 51 }
+	color_ui = rgb { 73 58 51 }
+}
 DNK = {
 	color = rgb { 98 78 64 }
 	color_ui = rgb { 98 78 64 }
