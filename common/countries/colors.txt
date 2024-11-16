@@ -1,5 +1,10 @@
 #reload countrycolors
 
+CSC = {
+	color = rgb { 29 52 42 }
+	color_ui = rgb { 29 52 42 }
+}
+
 FLD = {
 	color = rgb { 74 82 103 }
 	color_ui = rgb { 74 82 103 }
