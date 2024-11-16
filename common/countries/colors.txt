@@ -1,8 +1,9 @@
 #reload countrycolors
 
-
-
-
+JES = {
+	color = rgb { 98 53 97 }
+	color_ui = rgb { 98 53 97 }
+}
 
 SWD = {
 	color = rgb { 74 103 102 }
