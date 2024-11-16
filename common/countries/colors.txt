@@ -1,5 +1,10 @@
 #reload countrycolors
 
+JES = {
+	color = rgb { 98 53 97 }
+	color_ui = rgb { 98 53 97 }
+}
+
 CSC = {
 	color = rgb { 29 52 42 }
 	color_ui = rgb { 29 52 42 }
