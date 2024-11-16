@@ -1,5 +1,15 @@
 #reload countrycolors
 
+
+DNK = {
+	color = rgb { 98 78 64 }
+	color_ui = rgb { 98 78 64 }
+}
+NRY = {
+	color = rgb { 95 78 78 }
+	color_ui = rgb { 95 78 78 }
+}
+
 JES = {
 	color = rgb { 98 53 97 }
 	color_ui = rgb { 98 53 97 }
