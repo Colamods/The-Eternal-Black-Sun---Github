@@ -5,6 +5,11 @@ CSC = {
 	color_ui = rgb { 29 52 42 }
 }
 
+RAC = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
+
 FLD = {
 	color = rgb { 74 82 103 }
 	color_ui = rgb { 74 82 103 }
