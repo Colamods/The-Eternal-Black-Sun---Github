@@ -1,5 +1,9 @@
 #reload countrycolors
 
+JPN = {
+	color = rgb { 85 13 83 }
+	color_ui = rgb { 85 13 83 }
+}
 AGN = {
 	color = rgb { 105 51 76 }
 	color_ui = rgb { 105 51 76 }
