@@ -1,5 +1,13 @@
 #reload countrycolors
 
+OMN = {
+	color = rgb { 41 68 68 }
+	color_ui = rgb { 41 68 68 }
+}
+AOA = {
+	color = rgb { 68 41 68 }
+	color_ui = rgb { 68 41 68 }
+}
 RAR = {
 	color = rgb { 117 147 102 }
 	color_ui = rgb { 117 147 102 }

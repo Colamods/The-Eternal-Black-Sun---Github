@@ -302,6 +302,8 @@ DNK = "countries/Denmark.txt"
 TRK = "countries/Turkey.txt"
 IAQ = "countries/Iraq.txt"
 RAR = "countries/RArabia.txt"
+OMN = "countries/Oman.txt"
+AOA = "countries/Arabia.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"
