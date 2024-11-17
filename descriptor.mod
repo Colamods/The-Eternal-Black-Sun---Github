@@ -9,4 +9,5 @@ tags={
 replace_path= "common/bookmarks/the_gathering_storm"
 replace_path = "gfx/loadingscreens"
 replace_path = "history/countries"
+replace_path = "history/states"
 supported_version="1.15.0"
