@@ -11,8 +11,8 @@ state = {
 	
 	history = {
 
-		owner = AUS
-		add_core_of = AUS
+		owner = VRI
+		add_core_of = VRI
 
 		victory_points = {
 			11666 30 
@@ -36,19 +36,6 @@ state = {
                 }
             }
 		}
-		
-		1938.3.12 = {
-			owner = GER
-			controller = GER
-			add_core_of = GER
-		}
-
-		1939.1.1 = {
-			buildings = {
-				anti_air_building = 5
-			}
-		}
-
 	}
 
 	provinces = {
