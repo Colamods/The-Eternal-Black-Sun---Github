@@ -308,6 +308,8 @@ YMN = "countries/Yemen.txt"
 PSA = "countries/Persia.txt"
 KSR = "countries/KazSSR.txt"
 AGN = "countries/Afghan.txt"
+
+
 JPN = "countries/Afghan.txt"
 
 # WELSH ARGENTINA
