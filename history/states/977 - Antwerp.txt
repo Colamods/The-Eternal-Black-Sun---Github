@@ -13,6 +13,7 @@ state = {
 
 		owner = VRI
 		add_core_of = VRI
+		add_core_of = BEL
 
 		victory_points = { 
 			6598 30 

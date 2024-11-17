@@ -33,9 +33,9 @@ state = {
 		}
 
 		1938.3.12 = {
-			owner = VRI
-			controller = VRI
-			add_core_of = VRI
+			owner = GER
+			controller = GER
+			add_core_of = GER
 		}
 	}
 

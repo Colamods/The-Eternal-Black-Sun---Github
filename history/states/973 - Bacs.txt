@@ -9,7 +9,6 @@ state = {
 
 		owner = HGY
 		add_core_of = HGY
-		add_core_of = HGY
 
 		buildings = {
 			infrastructure = 2

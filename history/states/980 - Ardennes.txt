@@ -10,8 +10,8 @@ state = {
 
 	history = {
 
-		owner = VRI
-		add_core_of = VRI
+		owner = BEL
+		add_core_of = BEL
 
 		victory_points = {
 			9418 1 # Arlons
