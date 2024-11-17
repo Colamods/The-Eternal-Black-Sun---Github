@@ -1,5 +1,13 @@
 #reload countrycolors
 
+AGN = {
+	color = rgb { 105 51 76 }
+	color_ui = rgb { 105 51 76 }
+}
+KSR = {
+	color = rgb { 119 45 45 }
+	color_ui = rgb { 119 45 45 }
+}
 PSA = {
 	color = rgb { 80 36 56 }
 	color_ui = rgb { 80 36 56 }

@@ -306,6 +306,8 @@ OMN = "countries/Oman.txt"
 AOA = "countries/Arabia.txt"
 YMN = "countries/Yemen.txt"
 PSA = "countries/Persia.txt"
+KSR = "countries/KazSSR.txt"
+AGN = "countries/Afghan.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"
