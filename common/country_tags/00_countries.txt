@@ -304,6 +304,8 @@ IAQ = "countries/Iraq.txt"
 RAR = "countries/RArabia.txt"
 OMN = "countries/Oman.txt"
 AOA = "countries/Arabia.txt"
+YMN = "countries/Yemen.txt"
+PSA = "countries/Persia.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"

@@ -1,5 +1,13 @@
 #reload countrycolors
 
+PSA = {
+	color = rgb { 80 36 56 }
+	color_ui = rgb { 80 36 56 }
+}
+YMN = {
+	color = rgb { 41 54 68 }
+	color_ui = rgb { 41 54 68 }
+}
 OMN = {
 	color = rgb { 41 68 68 }
 	color_ui = rgb { 41 68 68 }
