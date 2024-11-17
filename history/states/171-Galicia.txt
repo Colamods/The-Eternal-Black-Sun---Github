@@ -7,8 +7,8 @@ state={
 	state_category = city
 
 	history={
-		owner = SPN
-		add_core_of = SPN
+		owner = POG
+		add_core_of = POG
 		victory_points = {
 			758 5
 		}
@@ -24,7 +24,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = SPN
+		add_core_of = POG
 	}
 
 	provinces={
