@@ -1,4 +1,4 @@
-GER	= "countries/Germany.txt"
+VRI	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
 SWE	= "countries/Sweden.txt"
