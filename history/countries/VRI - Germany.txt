@@ -89,9 +89,9 @@ set_convoys = 20
 	}
 }
 create_country_leader = {
-	name = "Karl Dönitz"
+	name = "Arthur Axmann"
 	desc = ""
-	picture = "Karl_Donitz.dds"
+	picture = "arthur_axmann.dds"
 	ideology = nazism
 	traits = {
 		#
