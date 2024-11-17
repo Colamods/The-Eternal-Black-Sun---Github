@@ -1,5 +1,13 @@
 #reload countrycolors
 
+RAR = {
+	color = rgb { 117 147 102 }
+	color_ui = rgb { 117 147 102 }
+}
+IAQ = {
+	color = rgb { 112 94 86 }
+	color_ui = rgb { 112 94 86 }
+}
 TRK = {
 	color = rgb { 73 58 51 }
 	color_ui = rgb { 73 58 51 }

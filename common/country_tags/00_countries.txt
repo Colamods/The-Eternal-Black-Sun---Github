@@ -300,6 +300,8 @@ SWD = "countries/Sweden.txt"
 NRY = "countries/Norway.txt"
 DNK = "countries/Denmark.txt"
 TRK = "countries/Turkey.txt"
+IAQ = "countries/Iraq.txt"
+RAR = "countries/RArabia.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"
