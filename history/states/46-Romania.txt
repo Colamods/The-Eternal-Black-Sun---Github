@@ -10,8 +10,8 @@ state = {
 
 	history = {
 
-		owner = ROM
-		add_core_of = ROM
+		owner = RMI
+		add_core_of = RMI
 
 		victory_points = { 
 			9617 20 
