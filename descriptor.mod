@@ -6,7 +6,7 @@ tags={
 	"Gameplay"
 	"Map"
 }
-replace_path = "common/bookmarks/the_gathering_storm"
+replace_path = "common/bookmarks"
 replace_path = "gfx/loadingscreens"
 replace_path = "history/countries"
 supported_version="1.15.0"
