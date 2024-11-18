@@ -28,6 +28,7 @@ state={
 			owner = ALN
 			controller = ALN
 			remove_claim_by = ALN
+		}	
 	}
 
 	local_supplies=0.0 
