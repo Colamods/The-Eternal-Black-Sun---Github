@@ -26,14 +26,9 @@ state = {
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 2
-
 			}
-			
-			set_demilitarized_zone = yes
-			
-			
 		}
-
+		set_demilitarized_zone = yes
 	}
 	
 	set_demilitarized_zone = yes
