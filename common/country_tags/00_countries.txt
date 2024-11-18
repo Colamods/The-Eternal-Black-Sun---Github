@@ -308,6 +308,8 @@ YMN = "countries/Yemen.txt"
 PSA = "countries/Persia.txt"
 KSR = "countries/KazSSR.txt"
 AGN = "countries/Afghan.txt"
+MCH = "countries/Manchuria.txt"
+JCH = "countries/JChina.txt"
 
 
 JPN = "countries/Afghan.txt"

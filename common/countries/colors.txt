@@ -1,5 +1,13 @@
 #reload countrycolors
 
+MCH = {
+	color = rgb { 121 31 118 }
+	color_ui = rgb { 121 31 118 }
+}
+JCH = {
+	color = rgb { 119 58 117 }
+	color_ui = rgb { 119 58 117 }
+}
 JPN = {
 	color = rgb { 100 18 98 }
 	color_ui = rgb { 100 18 98 }
