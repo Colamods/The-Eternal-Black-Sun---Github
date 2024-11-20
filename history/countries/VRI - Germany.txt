@@ -110,4 +110,9 @@ create_country_leader = {
 	}
 }
 
+create_faction = "Germania-Accord"
+
+add_to_faction = RKU
+
+add_to_faction = HGY
 

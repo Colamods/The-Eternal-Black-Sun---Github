@@ -1,5 +1,13 @@
 #reload countrycolors
 
+SHI = {
+	color = rgb { 126 72 125 }
+	color_ui = rgb { 126 72 125 }
+}
+MGO = {
+	color = rgb { 102 38 100 }
+	color_ui = rgb { 102 38 100 }
+}
 MCH = {
 	color = rgb { 121 31 118 }
 	color_ui = rgb { 121 31 118 }

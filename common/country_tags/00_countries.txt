@@ -310,7 +310,8 @@ KSR = "countries/KazSSR.txt"
 AGN = "countries/Afghan.txt"
 MCH = "countries/Manchuria.txt"
 JCH = "countries/JChina.txt"
-
+MGO = "countries/Mongolia.txt"
+SHI = "countries/Shanxi.txt"
 
 JPN = "countries/Afghan.txt"
 
