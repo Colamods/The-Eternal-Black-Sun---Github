@@ -1,5 +1,13 @@
 #reload countrycolors
 
+ECH = {
+	color = rgb { 6 23 102 }
+	color_ui = rgb { 6 23 102 }
+}
+SNK = {
+	color = rgb { 62 84 97 }
+	color_ui = rgb { 62 84 97 }
+}
 SHI = {
 	color = rgb { 126 72 125 }
 	color_ui = rgb { 126 72 125 }
