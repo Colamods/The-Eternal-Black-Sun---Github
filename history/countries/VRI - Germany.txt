@@ -112,7 +112,30 @@ create_country_leader = {
 
 create_faction = "Germania-Accord"
 
-add_to_faction = RKU
+puppet = RKU
 
 add_to_faction = HGY
 
+add_to_faction = RMI
+
+puppet = OST
+
+puppet = MOS
+
+puppet = SLV
+
+puppet = PND
+
+puppet = GTL
+
+puppet = PTP
+
+puppet = SIB
+
+puppet = TUK
+
+puppet = KUK
+
+puppet = FCE
+
+puppet = VBI
