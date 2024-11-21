@@ -99,3 +99,11 @@ create_country_leader = {
 }
 
 create_faction = "Protocolla Romana"
+
+puppet = ILL
+
+puppet = ALN
+
+puppet = GRC
+
+add_to_faction = BGR
