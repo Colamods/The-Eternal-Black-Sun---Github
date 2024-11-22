@@ -139,3 +139,7 @@ puppet = KUK
 puppet = FCE
 
 puppet = VBI
+
+add_to_faction = DNK
+
+puppet = NRY
