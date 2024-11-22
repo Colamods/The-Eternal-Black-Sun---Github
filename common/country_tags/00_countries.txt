@@ -314,6 +314,8 @@ MGO = "countries/Mongolia.txt"
 SHI = "countries/Shanxi.txt"
 SNK = "countries/Sinkiang.txt"
 ECH = "countries/China.txt"
+NPL = "countries/Tibet.txt"
+TBT = "countries/Nepal.txt"
 
 JPN = "countries/Afghan.txt"
 

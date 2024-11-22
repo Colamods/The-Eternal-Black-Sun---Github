@@ -1,5 +1,13 @@
 #reload countrycolors
 
+NPL = {
+	color = rgb { 160 53 0 }
+	color_ui = rgb { 160 53 0 }
+}
+TBT = {
+	color = rgb { 208 209 230 }
+	color_ui = rgb { 208 209 230 }
+}
 ECH = {
 	color = rgb { 6 23 102 }
 	color_ui = rgb { 6 23 102 }
