@@ -323,6 +323,8 @@ BUR = "countries/Burma.txt"
 ICN = "countries/Cindia.txt"
 FRE = "countries/FIndia.txt"
 JRA = "countries/JRaj.txt"
+PKN = "countries/Pakistan.txt"
+IDI = "countries/Indies.txt"
 
 JPN = "countries/Afghan.txt"
 

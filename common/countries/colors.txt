@@ -1,5 +1,13 @@
 #reload countrycolors
 
+PKN = {
+	color = rgb { 83 107 51 }
+	color_ui = rgb { 83 107 51 }
+}
+IDI = {
+	color = rgb { 137 109 77 }
+	color_ui = rgb { 137 109 77 }
+}
 FRE = {
 	color = rgb { 105 82 52 }
 	color_ui = rgb { 105 82 52 }
