@@ -1,5 +1,27 @@
 #reload countrycolors
 
+JAX = {
+	color = rgb { 132 57 86 }
+	color_ui = rgb { 132 57 86 }
+}
+VOL = {
+	color = rgb { 78 117 99 }
+	color_ui = rgb { 78 117 99 }
+}
+
+ASE = {
+	color = rgb { 32 64 102 }
+	color_ui = rgb { 32 64 102 }
+}
+ZEA = {
+	color = rgb { 32 100 83 }
+	color_ui = rgb { 32 100 83 }
+}
+PHL = {
+	color = rgb { 127 74 109 }
+	color_ui = rgb { 127 74 109 }
+}
+
 PKN = {
 	color = rgb { 83 107 51 }
 	color_ui = rgb { 83 107 51 }

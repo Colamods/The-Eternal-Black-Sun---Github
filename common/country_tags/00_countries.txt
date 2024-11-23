@@ -325,6 +325,11 @@ FRE = "countries/FIndia.txt"
 JRA = "countries/JRaj.txt"
 PKN = "countries/Pakistan.txt"
 IDI = "countries/Indies.txt"
+ZEA = "countries/Zealand.txt"
+ASE = "countries/Ausie.txt"
+PHL = "countries/Philip.txt"
+JAX = "countries/Jaxa.txt"
+VOL = "countries/Volga.txt"
 
 JPN = "countries/Afghan.txt"
 
