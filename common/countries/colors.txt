@@ -1,5 +1,13 @@
 #reload countrycolors
 
+SIM = {
+	color = rgb { 114 127 106 }
+	color_ui = rgb { 114 127 106 }
+}
+BUR = {
+	color = rgb { 114 46 105 }
+	color_ui = rgb { 114 46 105 }
+}
 GGX = {
 	color = rgb { 94 78 93 }
 	color_ui = rgb { 94 78 93 }

@@ -318,6 +318,8 @@ NPL = "countries/Tibet.txt"
 TBT = "countries/Nepal.txt"
 GGX = "countries/Guangxi.txt"
 ICH = "countries/Indochina.txt"
+SIM = "countries/Siam.txt"
+BUR = "countries/Burma.txt"
 
 JPN = "countries/Afghan.txt"
 
