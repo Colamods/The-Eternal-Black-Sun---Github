@@ -316,6 +316,8 @@ SNK = "countries/Sinkiang.txt"
 ECH = "countries/China.txt"
 NPL = "countries/Tibet.txt"
 TBT = "countries/Nepal.txt"
+GGX = "countries/Guangxi.txt"
+ICH = "countries/Indochina.txt"
 
 JPN = "countries/Afghan.txt"
 
