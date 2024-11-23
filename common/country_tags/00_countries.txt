@@ -320,6 +320,9 @@ GGX = "countries/Guangxi.txt"
 ICH = "countries/Indochina.txt"
 SIM = "countries/Siam.txt"
 BUR = "countries/Burma.txt"
+ICN = "countries/Cindia.txt"
+FRE = "countries/FIndia.txt"
+JRA = "countries/JRaj.txt"
 
 JPN = "countries/Afghan.txt"
 

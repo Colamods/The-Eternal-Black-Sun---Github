@@ -1,5 +1,18 @@
 #reload countrycolors
 
+FRE = {
+	color = rgb { 105 82 52 }
+	color_ui = rgb { 105 82 52 }
+}
+ICN = {
+	color = rgb { 95 36 36 }
+	color_ui = rgb { 95 36 36 }
+}
+JRA = {
+	color = rgb { 83 23 83 }
+	color_ui = rgb { 83 23 83 }
+}
+
 SIM = {
 	color = rgb { 114 127 106 }
 	color_ui = rgb { 114 127 106 }
