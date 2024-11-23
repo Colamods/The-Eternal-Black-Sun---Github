@@ -330,6 +330,8 @@ ASE = "countries/Ausie.txt"
 PHL = "countries/Philip.txt"
 JAX = "countries/Jaxa.txt"
 VOL = "countries/Volga.txt"
+ALI = "countries/Algeria.txt"
+LIY = "countries/LIbya.txt"
 
 JPN = "countries/Afghan.txt"
 

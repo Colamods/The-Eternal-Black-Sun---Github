@@ -1,5 +1,14 @@
 #reload countrycolors
 
+ALI = {
+	color = rgb { 76 99 77 }
+	color_ui = rgb { 76 99 77 }
+}
+LIY = {
+	color = rgb { 103 119 95 }
+	color_ui = rgb { 103 119 95 }
+}
+
 JAX = {
 	color = rgb { 132 57 86 }
 	color_ui = rgb { 132 57 86 }

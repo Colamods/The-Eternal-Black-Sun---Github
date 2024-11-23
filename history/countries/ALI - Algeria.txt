@@ -1,4 +1,4 @@
-﻿capital = 282
+﻿capital = 459
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -96,37 +96,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_faction = "The-Greater-East-Asian-Co-Prosperity-Sphere"
-
-puppet = MCH
-
-puppet = JES
-
-add_to_faction = MGO
-
-puppet = JES
-
-puppet = JAX
-
-puppet = SHI
-
-puppet = JCH
-
-puppet = GGX
-
-puppet = JES
-
-puppet = ICH
-
-puppet = SIM
-
-puppet = BUR
-
-puppet = JRA
-
-puppet = PHL
-
-puppet = JRA
-
-puppet = IDI

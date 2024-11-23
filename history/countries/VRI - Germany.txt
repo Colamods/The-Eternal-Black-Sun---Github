@@ -143,3 +143,5 @@ puppet = VBI
 add_to_faction = DNK
 
 puppet = NRY
+
+puppet = VOL
