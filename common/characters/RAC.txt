@@ -1,0 +1,16 @@
+characters = {
+	RAC_russian_anarchy = {
+		name = RAC_russian_anarchy
+		portraits = {
+			civilian = {
+				large = GFX_portrait_russian_anarchy
+			}
+		}
+		country_leader = {
+			ideology = anarchism
+			expire="1965.1.1.1"
+			id = -1
+		}
+	}
+	
+}
