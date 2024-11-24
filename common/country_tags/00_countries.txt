@@ -335,6 +335,9 @@ LIY = "countries/LIbya.txt"
 ZZZ = "countries/Zone.txt"
 EGP = "countries/Egypt.txt"
 EAF = "countries/EAfrica.txt"
+IRC = "countries/Iron.txt"
+BOH = "countries/Bolshevik.txt"
+CHD = "countries/Chad.txt"
 
 JPN = "countries/Afghan.txt"
 
