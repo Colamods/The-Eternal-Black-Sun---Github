@@ -344,6 +344,9 @@ LER = "countries/Liberia.txt"
 RHO = "countries/Rhodesia.txt"
 AFR = "countries/Afrika.txt"
 ZBI = "countries/Zambia.txt"
+SOA = "countries/SAfrica.txt"
+NAM = "countries/Nami.txt"
+AFI = "countries/Africa.txt"
 
 JPN = "countries/Afghan.txt"
 

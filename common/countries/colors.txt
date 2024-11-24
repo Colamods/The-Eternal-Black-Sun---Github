@@ -1,5 +1,18 @@
 #reload countrycolors
 
+SOA = {
+	color = rgb { 136 112 78 }
+	color_ui = rgb { 136 112 78 }
+}
+NAM = {
+	color = rgb { 63 60 87 }
+	color_ui = rgb { 63 60 87 }
+}
+AFI = {
+	color = rgb { 57 35 35 }
+	color_ui = rgb { 57 35 35 }
+}
+
 RHO = {
 	color = rgb { 51 104 121 }
 	color_ui = rgb { 51 104 121 }
@@ -8,7 +21,6 @@ ZBI = {
 	color = rgb { 40 97 50 }
 	color_ui = rgb { 40 97 50 }
 }
-
 AFR = {
 	color = rgb { 41 41 41 }
 	color_ui = rgb { 41 41 41 }
