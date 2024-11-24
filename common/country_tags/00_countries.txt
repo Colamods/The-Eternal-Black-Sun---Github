@@ -338,6 +338,9 @@ EAF = "countries/EAfrica.txt"
 IRC = "countries/Iron.txt"
 BOH = "countries/Bolshevik.txt"
 CHD = "countries/Chad.txt"
+TGO = "countries/Togo.txt"
+CNG = "countries/Congo.txt"
+LER = "countries/Liberia.txt"
 
 JPN = "countries/Afghan.txt"
 
