@@ -1,5 +1,31 @@
 #reload countrycolors
 
+ORG = {
+	color = rgb { 87 75 105 }
+	color_ui = rgb { 87 75 105 }
+}
+CCD = {
+	color = rgb { 117 73 65 }
+	color_ui = rgb { 117 73 65 }
+}
+QBE = {
+	color = rgb { 68 124 94 }
+	color_ui = rgb { 68 124 94 }
+}
+
+CAL = {
+	color = rgb { 122 54 54 }
+	color_ui = rgb { 122 54 54 }
+}
+SOB = {
+	color = rgb { 81 105 104 }
+	color_ui = rgb { 81 105 104 }
+}
+HRU = {
+	color = rgb { 137 134 58 }
+	color_ui = rgb { 137 134 58 }
+}
+
 MXI = {
 	color = rgb { 91 122 80 }
 	color_ui = rgb { 91 122 80 }

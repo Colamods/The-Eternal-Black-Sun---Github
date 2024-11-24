@@ -362,6 +362,12 @@ CAI = "countries/Carri.txt"
 MXI = "countries/Mexico.txt"
 NXI = "countries/NewMexico.txt"
 TEX = "countries/Texas.txt"
+CAL = "countries/Cali.txt"
+SOB = "countries/Brown.txt"
+HRU = "countries/HolyRocky.txt"
+ORG = "countries/Oregon.txt"
+CCD = "countries/Canada.txt"
+QBE = "countries/Quebec.txt"
 
 
 JPN = "countries/Afghan.txt"
