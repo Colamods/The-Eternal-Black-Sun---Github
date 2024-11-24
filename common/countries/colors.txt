@@ -1,5 +1,23 @@
 #reload countrycolors
 
+
+BRT = {
+	color = rgb { 39 39 90 }
+	color_ui = rgb { 39 39 90 }
+}
+KTY = {
+	color = rgb { 84 61 114 }
+	color_ui = rgb { 84 61 114 }
+}
+NRA = {
+	color = rgb { 134 81 64 }
+	color_ui = rgb { 134 81 64 }
+}
+JER = {
+	color = rgb { 132 120 95 }
+	color_ui = rgb { 132 120 95 }
+}
+
 DLA = {
 	color = rgb { 76 108 144 }
 	color_ui = rgb { 76 108 144 }
