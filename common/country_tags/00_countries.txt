@@ -341,6 +341,9 @@ CHD = "countries/Chad.txt"
 TGO = "countries/Togo.txt"
 CNG = "countries/Congo.txt"
 LER = "countries/Liberia.txt"
+RHO = "countries/Rhodesia.txt"
+AFR = "countries/Afrika.txt"
+ZBI = "countries/Zambia.txt"
 
 JPN = "countries/Afghan.txt"
 

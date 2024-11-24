@@ -1,5 +1,19 @@
 #reload countrycolors
 
+RHO = {
+	color = rgb { 51 104 121 }
+	color_ui = rgb { 51 104 121 }
+}
+ZBI = {
+	color = rgb { 40 97 50 }
+	color_ui = rgb { 40 97 50 }
+}
+
+AFR = {
+	color = rgb { 41 41 41 }
+	color_ui = rgb { 41 41 41 }
+}
+
 TGO = {
 	color = rgb { 89 94 137 }
 	color_ui = rgb { 89 94 137 }
