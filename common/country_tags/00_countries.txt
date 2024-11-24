@@ -368,7 +368,12 @@ HRU = "countries/HolyRocky.txt"
 ORG = "countries/Oregon.txt"
 CCD = "countries/Canada.txt"
 QBE = "countries/Quebec.txt"
-
+CAA = "countries/CentralArmy.txt"
+ALA = "countries/Alaska.txt"
+ATL = "countries/Atlantica.txt"
+DLA = "countries/America.txt"
+RCA = "countries/RAmerica.txt"
+FLO = "countries/Florida.txt"
 
 JPN = "countries/Afghan.txt"
 

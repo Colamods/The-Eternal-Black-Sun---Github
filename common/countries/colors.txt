@@ -1,5 +1,31 @@
 #reload countrycolors
 
+DLA = {
+	color = rgb { 76 108 144 }
+	color_ui = rgb { 76 108 144 }
+}
+RCA = {
+	color = rgb { 96 116 72 }
+	color_ui = rgb { 96 116 72 }
+}
+FLO = {
+	color = rgb { 90 132 108 }
+	color_ui = rgb { 90 132 108 }
+}
+
+CAA = {
+	color = rgb { 71 78 95 }
+	color_ui = rgb { 71 78 95 }
+}
+ALA = {
+	color = rgb { 60 41 124 }
+	color_ui = rgb { 60 41 124 }
+}
+ATL = {
+	color = rgb { 83 110 116 }
+	color_ui = rgb { 83 110 116 }
+}
+
 ORG = {
 	color = rgb { 87 75 105 }
 	color_ui = rgb { 87 75 105 }
@@ -12,7 +38,6 @@ QBE = {
 	color = rgb { 68 124 94 }
 	color_ui = rgb { 68 124 94 }
 }
-
 CAL = {
 	color = rgb { 122 54 54 }
 	color_ui = rgb { 122 54 54 }
