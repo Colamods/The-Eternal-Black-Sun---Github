@@ -107,3 +107,15 @@ puppet = ALN
 puppet = GRC
 
 add_to_faction = BGR
+
+puppet = ALI 
+
+puppet = LIY
+
+puppet = EGP
+
+puppet = GRC
+
+puppet = RAR
+
+puppet = EAF

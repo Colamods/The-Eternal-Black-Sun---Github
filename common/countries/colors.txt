@@ -1,5 +1,70 @@
 #reload countrycolors
 
+MXI = {
+	color = rgb { 91 122 80 }
+	color_ui = rgb { 91 122 80 }
+}
+NXI = {
+	color = rgb { 89 46 126 }
+	color_ui = rgb { 89 46 126 }
+}
+TEX = {
+	color = rgb { 102 77 57 }
+	color_ui = rgb { 102 77 57 }
+}
+
+KOL = {
+	color = rgb { 80 73 73 }
+	color_ui = rgb { 80 73 73 }
+}
+CAI = {
+	color = rgb { 94 104 129 }
+	color_ui = rgb { 94 104 129 }
+}
+CEN = {
+	color = rgb { 24 112 131 }
+	color_ui = rgb { 24 112 131 }
+}
+
+PEU = {
+	color = rgb { 136 94 60 }
+	color_ui = rgb { 136 94 60 }
+}
+CLM = {
+	color = rgb { 163 145 55 }
+	color_ui = rgb { 163 145 55 }
+}
+RBA = {
+	color = rgb { 95 119 104 }
+	color_ui = rgb { 95 119 104 }
+}
+
+GAY = {
+	color = rgb { 163 128 161 }
+	color_ui = rgb { 163 128 161 }
+}
+BZL = {
+	color = rgb { 39 116 69 }
+	color_ui = rgb { 39 116 69 }
+}
+BVI = {
+	color = rgb { 133 142 62 }
+	color_ui = rgb { 133 142 62 }
+}
+
+INO = {
+	color = rgb { 163 128 161 }
+	color_ui = rgb { 163 128 161 }
+}
+ARI = {
+	color = rgb { 46 42 122 }
+	color_ui = rgb { 46 42 122 }
+}
+CHE = {
+	color = rgb { 117 41 121 }
+	color_ui = rgb { 117 41 121 }
+}
+
 SOA = {
 	color = rgb { 136 112 78 }
 	color_ui = rgb { 136 112 78 }
