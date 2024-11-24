@@ -1,5 +1,19 @@
 #reload countrycolors
 
+EAF = {
+	color = rgb { 103 139 85 }
+	color_ui = rgb { 103 139 85 }
+}
+ZZZ = {
+	color = rgb { 23 23 23 }
+	color_ui = rgb { 23 23 23 }
+}
+
+EGP = {
+	color = rgb { 87 124 68 }
+	color_ui = rgb { 87 124 68 }
+}
+
 ALI = {
 	color = rgb { 76 99 77 }
 	color_ui = rgb { 76 99 77 }

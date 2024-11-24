@@ -332,6 +332,9 @@ JAX = "countries/Jaxa.txt"
 VOL = "countries/Volga.txt"
 ALI = "countries/Algeria.txt"
 LIY = "countries/LIbya.txt"
+ZZZ = "countries/Zone.txt"
+EGP = "countries/Egypt.txt"
+EAF = "countries/EAfrica.txt"
 
 JPN = "countries/Afghan.txt"
 
