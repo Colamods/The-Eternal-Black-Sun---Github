@@ -378,6 +378,7 @@ KTY = "countries/Kentucky.txt"
 NRA = "countries/Virginia.txt"
 JER = "countries/Jersey.txt"
 BRT = "countries/Brotherhood.txt"
+IRO = "countries/Ironins.txt"
 
 JPN = "countries/Afghan.txt"
 
