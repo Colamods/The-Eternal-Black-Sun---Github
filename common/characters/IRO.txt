@@ -1,0 +1,16 @@
+characters = {
+	IRO_iron_insurgency = {
+		name = IRO_iron_insurgency
+		portraits = {
+			civilian = {
+				large = GFX_portrait_iron_council
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire="2025.1.1.1"
+			id = -1
+		}
+	}
+	
+}

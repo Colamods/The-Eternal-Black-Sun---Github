@@ -1,5 +1,8 @@
 #reload countrycolors
-
+IRO = {
+	color = rgb { 6 0 45 }
+	color_ui = rgb { 6 0 45 }
+}
 
 BRT = {
 	color = rgb { 39 39 90 }
