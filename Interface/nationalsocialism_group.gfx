@@ -1,7 +1,0 @@
-spriteTypes = {
-
-	spriteType = {
-		name = GFX_ideology_nationalsocialism_group
-		texturefile = gfx/interface/ideologies/nationalsocialism_group.dds
-	}
-}

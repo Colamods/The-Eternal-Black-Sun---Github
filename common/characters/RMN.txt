@@ -1,0 +1,16 @@
+characters = {
+	RMN_maria = {
+		name = RMN_maria
+		portraits = {
+			civilian = {
+				large = GFX_portrait_italian_maria
+			}
+		}
+		country_leader = {
+			ideology = natmon
+			expire="2025.1.1.1"
+			id = -1
+		}
+	}
+	
+}

@@ -9,5 +9,14 @@ spriteType = {
 		name = "GFX_portrait_russian_anarchy"
 		texturefile = "gfx/leaders/RAC/russian_anarchy.dds"
 	}
+	
+spriteType = {
+		name = "GFX_portrait_german_goebbles"
+		texturefile = "gfx/leaders/VRI/goebbles.dds"
+	}
 
+    spriteType = {
+		name = "GFX_portrait_italian_maria"
+		texturefile = "gfx/leaders/RMN/maria.dds"
+	}
 }

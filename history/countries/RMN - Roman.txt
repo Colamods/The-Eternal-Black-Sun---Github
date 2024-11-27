@@ -5,6 +5,7 @@ set_technology = {
 	infantry_weapons = 1
 }
 
+recruit_character = RMN_maria
 recruit_character = ALG_ar
 recruit_character = ALG_acr
 recruit_character = ALG_mt
@@ -76,25 +77,15 @@ set_convoys = 20
 
 1985.1.1 = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = natmon
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 0
-		fascism = 100
-		communism = 0
-		neutrality = 0
-	}
-}
-create_country_leader = {
-	name = "test"
-	desc = ""
-	picture = "test.dds"
-	ideology = nazism
-	traits = {
-		#
+		natmon = 65
+		itafascism = 25
+		colmon = 10
 	}
 }
 

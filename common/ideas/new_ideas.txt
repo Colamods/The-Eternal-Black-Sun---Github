@@ -132,4 +132,30 @@ ideas = {
 			}
 		}
 	}
+	
+	country = {
+		hierempire = {
+			picture = hierempire
+			
+            allowed = {
+			    tag = RMN
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.2
+			}
+		}
+	}
 }

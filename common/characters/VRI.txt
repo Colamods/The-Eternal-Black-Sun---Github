@@ -1,0 +1,16 @@
+characters = {
+	VRI_goebbles = {
+		name = VRI_goebbles
+		portraits = {
+			civilian = {
+				large = GFX_portrait_german_goebbles
+			}
+		}
+		country_leader = {
+			ideology = natosocconservative
+			expire="2025.1.1.1"
+			id = -1
+		}
+	}
+	
+}

@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_natmon"
+		texturefile = "gfx/interface/ideologies/natmon.dds"
+	}
+}

@@ -1,4 +1,8 @@
 ﻿l_english:
- nationalsocialism:0 "National Socialism"
- technocraticbioweaponization:0 "Technocratic Bioweaponization"
- strasseritenationalsocialism:0 "Strasserite National Socialism"
+ natosocconservative:0 "NSDAP - Conservative Faction"
+ natosocstrasserist:0 "NSDAP - Strasserist Faction"
+ natosocmilitarist:0 "NSDAP- Militarist Faction"
+ natosocbioweapon:0 "NSDAP - Bio-weapon Faction"
+ natmon:0 "PDMN - National Monarchism"
+ itafascism:0 "GCDF - Fascism"
+ colmon:0 "MC - Collective Monarchism"
