@@ -1,0 +1,26 @@
+﻿###########################
+# REICH Events
+###########################
+
+add_namespace = reich
+
+# Test Event
+country_event = {
+	id = reich.1
+	title = "TEST"
+	desc = reich.1.d
+	picture = GFX_report_event_test
+	
+	is_triggered_only = yes
+	
+	option = { # PICK ME
+		name = "PICK ME 1"
+		ai_chance = { factor = 90 }
+		add_political_power = 100
+	}
+	option = { # PICK ME
+		name = "PICK ME 2 ELECTRIC BALOGALO"
+		ai_chance = { factor = 10 }
+		add_political_power = -10
+	}
+}
