@@ -45,5 +45,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/axe.dds"
 	}
 	
+	SpriteType = {
+		name = "GFX_idea_chains"
+		texturefile = "gfx/interface/ideas/chains.dds"
+	}
 	
 }

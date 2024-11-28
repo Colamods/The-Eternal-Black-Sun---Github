@@ -96,6 +96,7 @@ set_convoys = 20
 	eternalflame
 	mafia
 	axe
+	chains
 	
 	}
 }

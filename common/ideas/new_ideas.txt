@@ -213,8 +213,8 @@ ideas = {
 	}
 	
 	country = {
-		axe = {
-			picture = axe
+		chains = {
+			picture = chains
 			
             allowed = {
 			    tag = RMN
