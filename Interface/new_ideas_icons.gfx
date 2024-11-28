@@ -35,4 +35,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/eternalflame_icon.dds"
 	}
 	
+	SpriteType = {
+		name = "GFX_idea_mafia"
+		texturefile = "gfx/interface/ideas/mafia.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_axe"
+		texturefile = "gfx/interface/ideas/axe.dds"
+	}
+	
+	
 }

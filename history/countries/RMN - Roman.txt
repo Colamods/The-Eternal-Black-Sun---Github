@@ -94,6 +94,8 @@ set_convoys = 20
    add_ideas = {
     hierempire
 	eternalflame
+	mafia
+	axe
 	
 	}
 }

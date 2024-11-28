@@ -37,6 +37,7 @@ guiTypes = {
 				name = "Title"
 				position = { x = 14 y = 70 }
 				font = "hoi4_typewriter22"
+				color = { 255 255 255 }
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
 				maxWidth = 551

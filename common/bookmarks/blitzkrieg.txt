@@ -27,6 +27,7 @@ bookmarks = {
 			ideas = {
 				hierempire
 				eternalflame
+				axe
 			}
 			focuses = {
 				ENG_war_with_japan
