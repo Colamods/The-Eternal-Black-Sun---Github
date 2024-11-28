@@ -19,7 +19,20 @@ bookmarks = {
 				bomber_command_focus
 				maud_focus
 			}
-			
+		}
+		
+		RMN = {
+			history = RMN_BSB_DESC_LOC
+			ideology = fascism
+			ideas = {
+				hierempire
+				eternalflame
+			}
+			focuses = {
+				ENG_war_with_japan
+				bomber_command_focus
+				maud_focus
+			}
 		}
 
 		"---"={

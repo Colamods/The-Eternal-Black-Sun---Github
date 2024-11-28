@@ -158,4 +158,30 @@ ideas = {
 			}
 		}
 	}
+	
+	country = {
+		eternalflame = {
+			picture = eternalflame
+			
+            allowed = {
+			    tag = RMN
+			}
+			
+			available = { 
+			}
+			
+			cancel = {
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.1
+			}
+		}
+	}
 }

@@ -89,6 +89,15 @@ set_convoys = 20
 	}
 }
 
+1985.1.1 = {
+
+   add_ideas = {
+    hierempire
+	eternalflame
+	
+	}
+}
+
 create_faction = "Protocolla Romana"
 
 puppet = ILL

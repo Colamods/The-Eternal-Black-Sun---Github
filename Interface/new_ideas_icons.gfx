@@ -25,4 +25,14 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/extension_icon.dds"
 	}
 	
+	SpriteType = {
+		name = "GFX_idea_hierempire"
+		texturefile = "gfx/interface/ideas/hierempire_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_eternalflame"
+		texturefile = "gfx/interface/ideas/eternalflame_icon.dds"
+	}
+	
 }
