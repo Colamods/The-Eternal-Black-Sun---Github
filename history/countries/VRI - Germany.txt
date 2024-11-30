@@ -136,3 +136,13 @@ add_to_faction = DNK
 puppet = NRY
 
 puppet = VOL
+
+puppet = KOL
+
+puppet = RBA 
+
+puppet = IRC
+
+puppet = BRT
+
+puppet = ATL

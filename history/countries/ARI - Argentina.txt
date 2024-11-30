@@ -97,3 +97,15 @@ create_country_leader = {
 		#
 	}
 }
+
+create_faction = "Frente sudamericano"
+
+add_to_faction = CHE
+
+add_to_faction = BZL
+
+add_to_faction = GAY
+
+add_to_faction = PEU
+
+add_to_faction = CLM

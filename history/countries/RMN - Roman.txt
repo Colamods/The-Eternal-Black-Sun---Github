@@ -85,7 +85,8 @@ set_convoys = 20
 	set_popularities = {
 		natmon = 65
 		itafascism = 25
-		colmon = 10
+		colmon = 5
+		itasoc 5
 	}
 }
 
