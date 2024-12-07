@@ -1,0 +1,21 @@
+﻿###########################
+# ROMAN Events
+###########################
+
+add_namespace = rome
+
+# Beneath the stained paper Event
+country_event = {
+	id = rome.1
+	title = "Beneath the stained paper"
+	desc = rome.1.d
+	picture = GFX_report_event_papers
+	
+	is_triggered_only = yes
+	
+	option = { # but the memories lingered on
+		name = "but the memories lingered on"
+		ai_chance = { factor = 90 }
+		add_political_power = 100
+	}
+}
