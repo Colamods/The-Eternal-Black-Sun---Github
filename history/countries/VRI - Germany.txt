@@ -100,7 +100,8 @@ set_convoys = 20
 	extension
 	}
 }
-
+	
+	
 create_faction = "Germania-Accord"
 
 puppet = RKU
@@ -146,3 +147,4 @@ puppet = IRC
 puppet = BRT
 
 puppet = ATL
+

@@ -87,6 +87,15 @@ set_convoys = 20
 		jenviron = 3
 	}
 }
+create_country_leader = {
+	name = "test"
+	desc = ""
+	picture = "test.dds"
+	ideology = imperial
+	traits = {
+		#
+	}
+}
 
 create_faction = "The-Greater-East-Asian-Co-Prosperity-Sphere"
 

@@ -1,5 +1,6 @@
 ideologies = {
 	
+
     #### NATIONAL SOCIALIST IDEOLOGIES ####
 
 	natosocconservative = {
@@ -28,6 +29,13 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 		}
+		
+        visible = {
+            has_government = no
+            OR = {
+                tag = VRI
+            }
+        }
 
 		can_collaborate = yes
 
@@ -47,7 +55,7 @@ ideologies = {
 		
 		ai_give_core_state_control_threshold = 10000
 	}
-	
+
 	natosocstrasserist = {
 
 		types = {
